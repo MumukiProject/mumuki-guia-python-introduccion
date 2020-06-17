@@ -9,8 +9,8 @@ En otras palabras, lo tenemos que hacer es:
 &emsp;&emsp;&emsp;&emsp;- return   
   
 Notás como usamos acá el carácter "dos puntos" y la *sangría* (o indentación)?  
-Si, en Python se usan como en Castellano para:
+Si, en Python se usan de la misma manera que en Castellano para:
 
-&emsp;&emsp;- para englobar listas
-&emsp;&emsp;- para agrupar items
-&emsp;&emsp;- para este ejemplo :)
+&emsp;&emsp;- para englobar listas   
+&emsp;&emsp;- para agrupar items   
+&emsp;&emsp;- para esta pista :hugging:
