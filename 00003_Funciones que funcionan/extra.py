@@ -1,13 +1,13 @@
-import time
+import time,datetime
 
 class ejercicio_mente():
 
-  @classmethod
+  @staticmethod
   def ahora():
     return datetime.datetime.timestamp(datetime.datetime.now())
   
   
-  @classmethod
+  @staticmethod
   def pausa_print(entrada):
     time.sleep(1)
     print(str(entrada))
