@@ -11,8 +11,10 @@ class ejercicio_mente():
 
   @staticmethod
   def ahora():
-    return datetime.datetime.timestamp(datetime.datetime.now())
+    #return datetime.datetime.timestamp(datetime.datetime.now())
+    return 1
   
+
   
   @staticmethod
   def pausa_print(entrada):
