@@ -6,4 +6,4 @@ Creá una función llamada `leer_mente`, cuyo resultado sea su entrada dividido 
 
 Luego, usaremos tu funcion `leer_mente(entrada)` para hacer un *juego mental* ... 
 
-Recordá que podés ver las pistas (sin penalidades...)
+Recordá que podés ver las pistas, sin penalidades.

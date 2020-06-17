@@ -8,8 +8,8 @@ En otras palabras, lo tenemos que hacer es:
 &emsp;&emsp;- def   
 &emsp;&emsp;- return   
   
-Notás como es usmos el carácter "dos puntos" y la *sangría* (o indentación)?  
-Si, en Python se usan como en Castellano, para:
+Notás como usamos acá el carácter "dos puntos" y la *sangría* (o indentación)?  
+Si, en Python se usan como en Castellano para:
 
 - para englobar listas
 - para agrupar items
