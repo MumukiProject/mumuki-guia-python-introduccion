@@ -6,7 +6,7 @@ import datetime
 class Test(unittest.TestCase):
 
   def test_probemos_leer_mente(self):
-    ejercicio_mente.aveer()
+    ejercicio_mente.aveeer()
     antes=ejercicio_mente.ahora()
     ejercicio_mente.pausa_print("impreso a las {}".format(antes))
     despues=ejercicio_mente.ahora()
