@@ -3,6 +3,8 @@
 
 
 class Test(unittest.TestCase):
-    def test_probamos_la_funcion_leer_mente_con_varias_entradas(self):
+    def test_probamos_con_varias_entradas(self):
       for entrada in range(-1, 2):
-            self.assertEqual(entrada / 2, leer_mente(entrada))
+          salida_esperada=entrada / 2
+          salida=leer_mente(entrada)
+          self.assertEqual(salida_esperada,salida,f"la salida de leer_mente({entrada}), es {salida} , pero esperábamos que fuera {salida_esperada}")
