@@ -8,7 +8,7 @@ class ejercicio_mente():
   
   
   @classmethod
-  def print(entrada):
+  def pausa_print(entrada):
     time.sleep(1)
     print(str(entrada))
     return None

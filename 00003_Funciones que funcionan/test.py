@@ -1,7 +1,7 @@
 import datetime
 from extra import ejercicio_mente
 
-print=ejercicio_mente.print
+print=ejercicio_mente.pausa_print
 
 class Test(unittest.TestCase):
 
