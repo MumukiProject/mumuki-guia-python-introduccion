@@ -1,9 +1,12 @@
+/*...extra...*/
+/*...content...*/
 import datetime
-from extra import ejercicio_mente
+
 
 class Test(unittest.TestCase):
 
   def test_leer_mente_div2(self):
+    print(dir())
     antes=ejercicio_mente.ahora()
     ejercicio_mente.pausa_print("impreso a las {}".format(antes))
     despues=ejercicio_mente.ahora()
