@@ -1,7 +1,7 @@
 En otras palabras, lo tenemos que hacer es:   
 
 &emsp;&emsp;**def**inir **leer_mente (**que tome una **entrada)** y que **:**   
-&emsp;&emsp;&emsp;&emsp;**return**e **entrada/2**
+&emsp;&emsp;&emsp;&emsp;**return**e **entrada/5**
   
 &emsp;&emsp;usando las *primitivas*:
   

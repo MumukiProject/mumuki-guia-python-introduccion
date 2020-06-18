@@ -1,2 +1,2 @@
 def leer_mente(entrada):
-  return entrada/2
+  return entrada/5
