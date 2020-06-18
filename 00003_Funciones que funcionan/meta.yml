@@ -1,11 +1,12 @@
 ---
 locale: es
-tags: []
+tags:
+- funciones
 layout: input_right
 editor: code
 type: problem
 extra_visible: false
-teacher_info: ''
+teacher_info: Leandro Batlle
 manual_evaluation: false
 choices: []
 name: Funciones que funcionan
