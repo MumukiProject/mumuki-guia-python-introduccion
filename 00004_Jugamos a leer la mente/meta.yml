@@ -2,6 +2,10 @@
 locale: es
 tags:
 - funciones
+- funciones_invocación
+- funciones_encabezado
+- primitivas_input
+- primitivas_int
 layout: input_right
 editor: code
 type: problem
