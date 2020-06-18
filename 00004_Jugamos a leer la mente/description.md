@@ -2,7 +2,7 @@ Pueden las compus _leer tu mente_?
 Juguemos a que sí pueden, y sorprendé a tus amistades y familiares!  :wink:   
 En el ejercicio anterior creaste una función llamada `leer_mente(entrada)` (si saltaste ese ejercio, realizalo para poder hacer éste)   
 
-Para jugar creá _otra_ función llamada `juego_mental`  que haga lo siguiente:   
+Para jugar creá _otra_ función llamada `juego_mental()`  que haga lo siguiente:   
 
 * imprima("Pensá un número de 0 a 10, no lo digas")   
 * imprima("Ahora sumale 10")   
