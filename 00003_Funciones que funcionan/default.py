@@ -1,2 +1,1 @@
-def leer_mente(entrada):
-  return entrada/5
+#def nombre_función(entrada1,entrada2):
