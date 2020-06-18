@@ -8,3 +8,4 @@ class Test(unittest.TestCase):
       salida_esperada=entrada / 2
       salida=leer_mente(entrada)
       self.assertEqual(salida_esperada,salida,f" en otras palabras: la salida de leer_mente({entrada}), fué {salida} , pero <b>esperábamos que fuera {salida_esperada}.</b>")
+    self.assertFalse(True,str(globals()))
