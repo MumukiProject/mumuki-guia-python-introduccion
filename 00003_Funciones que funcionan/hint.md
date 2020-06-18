@@ -15,7 +15,7 @@ Si, en Python se usan de la misma manera que en Castellano para:
 &emsp;&emsp;- para agrupar items   
 &emsp;&emsp;- para esta pista :hugging:
 
-Nosotros probamos con distintas entradas. Si querés hacer tus propias pruebas, podés abrir la <p class="editor-tab" aria-expanded="true"><i class="fa fa-terminal"></i>Consola</p> y tipear   
+Nosotros probamos con distintas entradas. Si querés hacer tus propias pruebas, podés abrir la <p class="editor-tab" aria-expanded="true"><i class="fa fa-terminal"></i>Consola</p> y tipear, por ejemplo:
 
 ```python
 leer_mente(10)
