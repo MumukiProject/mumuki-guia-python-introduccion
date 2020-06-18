@@ -3,7 +3,7 @@
 #...user_first_name...#
 
 class Test(unittest.TestCase):
-  def test_prueba_con_varias_entradas(self):
+  def test_probamos_con_varias_entradas(self):
     for entrada in range(-1, 2):
       salida_esperada=entrada / 2
       salida=leer_mente(entrada)
