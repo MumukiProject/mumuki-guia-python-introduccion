@@ -1,6 +1,4 @@
-#...content...#
-#...extra...#
-#...user_first_name...#
+var=#...user_first_name...#
 
 
 class Test(unittest.TestCase):
@@ -8,7 +6,7 @@ class Test(unittest.TestCase):
     for entrada in range(-1, 2):
       salida_esperada=entrada / 5
       salida=leer_mente(entrada)
-      self.assertEqual(salida_esperada,salida,f" en otras palabras: la salida de leer_mente({entrada}), fué {salida} , pero esperábamos que fuera {salida_esperada}")
+      self.assertEqual(salida_esperada,salida,f" en otras palabras: la salida de leer_mente({entrada}), fué {salida} , pero esperábamos que fuera {salida_esperada},{var}")
   def test_probamos_con_varias_entradas2(self):
     for entrada in range(-1, 2):
       salida_esperada=entrada / 5
