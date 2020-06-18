@@ -1,5 +1,5 @@
 Pueden las compus _leer tu mente_?   
-Sorprendé a tus amistades y familiares jugando a que  un rato a que sí pueden :wink:   
+Sorprendé a tus amistades y familiares jugando a que sí pueden :wink:   
 En el ejercicio anterior creaste una función llamada `leer_mente(entrada)` (si saltaste ese ejercio, realizalo para poder hacer éste)   
 
 Para jugar creá programa que haga lo siguiente:   
