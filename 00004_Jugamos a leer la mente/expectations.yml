@@ -1,5 +1,5 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: DeclaresComputationWithArity1
-  inspection: Declares:leer_mente
+  binding: miDeclaresComputationWithArity1
+  inspection: DeclaresComputationWithArity1:leer_mente
