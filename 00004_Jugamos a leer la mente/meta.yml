@@ -12,5 +12,6 @@ type: problem
 extra_visible: false
 teacher_info: Leandro Batlle
 manual_evaluation: false
+progressive_expectations: false
 choices: []
 name: Jugamos a leer la mente
